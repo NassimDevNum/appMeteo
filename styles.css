@@ -5,7 +5,7 @@ html, body {
     min-width: 400px;
     text-align: center;
     text-transform: capitalize;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Roboto', sans-serif;
   }
   
   #ville {
@@ -19,4 +19,10 @@ html, body {
   #changer {
     background: rgba(178, 223, 251, .3);
     cursor: pointer;
+    padding: 25px;
+    border-radius: 15px;
+    justify-content: center;
+  }
+  #changer:hover{
+    background-color: #FFFFFF;
   }
