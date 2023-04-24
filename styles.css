@@ -1,11 +1,12 @@
 html, body {
   background: rgb(2,0,36);
-background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(0,212,255,1) 47%, rgba(0,0,0,1) 100%);
+background: linear-gradient(to right, rgb(97, 144, 232), rgb(167, 191, 232));
     min-width: 400px;
     text-align: center;
     text-transform: capitalize;
     font-family: 'Roboto', sans-serif;
   }
+
   
   #ville {
     text-transform: capitalize;
