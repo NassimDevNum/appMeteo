@@ -1,7 +1,6 @@
 html, body {
-    background: #2980B9;
-    background: -webkit-linear-gradient(to right, #FFFFFF, #6DD5FA, #2980B9);
-    background: linear-gradient(to right, #FFFFFF, #6DD5FA, #2980B9);
+  background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(0,212,255,1) 47%, rgba(0,0,0,1) 100%);
     min-width: 400px;
     text-align: center;
     text-transform: capitalize;
